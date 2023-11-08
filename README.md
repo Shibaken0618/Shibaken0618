@@ -2,7 +2,7 @@
 - 👀 I’m interested in... robotics, automation, and game development 
 - 🌱 I’m currently learning... C++ and computer vision
 - 💞️ I’m looking to collaborate on ... n/a
-- 📫 How to reach me ... feel free to email me at kent.shibata06@gmail.com
+- 📫 How to reach me ... feel free to email me at kshibat2@jh.edu
 
 <!---
 Shibaken0618/Shibaken0618 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
