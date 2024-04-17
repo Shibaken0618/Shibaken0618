@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shibaken0618
 - 👀 I’m interested in... robotics, automation, and game development 
-- 🌱 I’m currently learning... C++ and computer vision
+- 🌱 I’m currently learning... Algorithms for robotics, computer vision, deep learning
 - 💞️ I’m looking to collaborate on ... n/a
 - 📫 How to reach me ... feel free to email me at kshibat2@jh.edu
 
