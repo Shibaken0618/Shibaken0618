@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shibaken0618
-- 👀 I’m interested in... robotics, automation, and machine/deep learning
+- 👀 I’m interested in... robotics, mechanical design, automation, and machine/deep learning
 - 🌱 I’m currently learning... MLOps, End-to-end dev for ML/DL apps
 - 💞️ I’m looking to collaborate on ... impactful projects!
 - 📫 How to reach me ... feel free to email me at kentshibashiba18@gmail.com
