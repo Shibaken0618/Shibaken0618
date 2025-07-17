@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shibaken0618
 - 👀 I’m interested in... robotics, mechanical design, automation, and machine/deep learning
-- 🌱 I’m currently learning... MLOps, End-to-end dev for ML/DL apps
+- 🌱 I’m currently learning... MLOps, End-to-end dev for ML/DL apps, Flutter for app dev
 - 💞️ I’m looking to collaborate on ... impactful projects!
 - 📫 How to reach me ... feel free to email me at kentshibashiba18@gmail.com
 
